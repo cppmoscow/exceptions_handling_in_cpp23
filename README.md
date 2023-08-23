@@ -1,6 +1,12 @@
 # exceptions_handling_in_cpp23
 
-C++ Moscow №0: «std::expected. Обработка ошибок в C++23»‎ 
+C++ Moscow №0: «std::expected. Обработка ошибок в C++23»
+
+Докладчик: Илья Быконя
+
+Видео: [YouTube](https://youtu.be/PdRWkw2kaqE?si=xDSOhXrNNFC0rmI7)
+
+Презентация: [PDF](slides.pdf)
 
 ## Аннотация
 
